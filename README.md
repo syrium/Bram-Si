@@ -1,4 +1,4 @@
-# Si
+# Si@syrium
 
 AI Engineer / Data Science Beginner  
 Former FPGA Engineer • Machine Learning • AWS • GNN • Computer Vision
