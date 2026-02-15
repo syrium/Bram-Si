@@ -1,10 +1,10 @@
 # Si
 
-AI Engineer / Data Scientist  
-Machine Learning • AWS • GNN • Computer Vision
+AI Engineer / Data Science Beginner  
+Former FPGA Engineer • Machine Learning • AWS • GNN • Computer Vision
 
-I build reliable, end-to-end ML systems — from data pipelines and model training to cloud deployment.  
-My work spans deep learning, graph neural networks, and hardware–software integration.
+I’m transitioning from hardware engineering to AI, building reliable end-to-end ML systems while continuously expanding my knowledge in data science and deep learning.  
+My background in FPGA development gives me a strong foundation in optimization, low-level systems, and structured problem-solving.
 
 ## Featured Work
 - **Alzheimer’s Disease Detection (GNN + MRI)**  
@@ -17,10 +17,11 @@ My work spans deep learning, graph neural networks, and hardware–software inte
 ## Core Skills
 Python • PyTorch • TensorFlow • Scikit-learn  
 AWS (S3, EC2, SageMaker) • Docker • Linux  
-GNNs • CNNs • Data Engineering
+GNNs • CNNs • Data Engineering  
+FPGA Development • Verilog • Hardware Acceleration
 
 ## Current Focus
-Building scalable ML pipelines and exploring model interpretability.
+Strengthening my foundations in AI and data science while building scalable ML pipelines.
 
 ## Links
 LinkedIn • Portfolio • Email
