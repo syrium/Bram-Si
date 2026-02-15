@@ -16,7 +16,7 @@ My background in FPGA development gives me a strong foundation in optimization, 
 
 ## Core Skills
 Python • PyTorch • TensorFlow • Scikit-learn  
-AWS (S3, EC2, SageMaker) • Docker • Linux  
+AWS (S3, EC2, SageMaker) • Linux  
 GNNs • CNNs • Data Engineering  
 FPGA Development • Verilog • Hardware Acceleration
 
