@@ -4,7 +4,8 @@ AI Engineer / Data Science Beginner
 Former FPGA Engineer • Machine Learning • AWS • GNN • Computer Vision
 
 I’m transitioning from hardware engineering to AI, building reliable end-to-end ML systems while continuously expanding my knowledge in data science and deep learning.  
-My FPGA background gives me a strong foundation in optimization, low-level systems, and structured problem-solving.
+My FPGA and RISC-V background gives me a strong foundation in optimization, computer architecture, and structured problem-solving.
+
 
 
 ## Featured Work
@@ -14,6 +15,9 @@ My FPGA background gives me a strong foundation in optimization, low-level syste
   Integrated pretrained models into Microchip FPGA reference designs for real-time inference.  
 - **FPGA Image Processing**  
   Worked with Microchip reference designs, updating and adjusting modules while understanding the full hardware workflow.
+- **RISC-V Architecture**  
+  Studied RISC-V ISA, instruction types, and how processors are built.
+
  
 ## Core Skills
 Python • PyTorch • TensorFlow • Scikit-learn  
