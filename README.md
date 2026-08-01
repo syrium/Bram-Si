@@ -29,4 +29,4 @@ FPGA Development • Verilog • Hardware Acceleration
 Strengthening my foundations in AI and data science while building scalable ML pipelines.
 
 ## Links
-LinkedIn • Portfolio • Email
+LinkedIn • Portfolio 
